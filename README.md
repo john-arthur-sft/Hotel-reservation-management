@@ -40,3 +40,6 @@ step 2 :
  the file 2 (text file) enters all the command you enter in the program as an log entry  
  
  the Main.py is the Main script, Run the Main Script in order to work with the program 
+ 
+ 
+ # If you want to change something please add it to the new branches do not commit any changes to main branch.
