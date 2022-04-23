@@ -43,3 +43,7 @@ step 2 :
  
  
  # If you want to change something please add it to the new branches do not commit any changes to main branch.
+ 
+ # steps needed to be changed for database section 
+ 
+ 1) in the place of password in the "mysql.connect(..,password = "--")" add the password you set for your SQL servr
